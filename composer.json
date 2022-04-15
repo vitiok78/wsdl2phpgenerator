@@ -1,5 +1,5 @@
 {
-    "name": "wsdl2phpgenerator/wsdl2phpgenerator",
+    "name": "vitiok78/wsdl2phpgenerator",
     "description": "Simple class library for generating php classes from a wsdl file.",
     "keywords": ["soap", "wsdl"],
     "license": "MIT",
@@ -19,7 +19,7 @@
         ]
     },
     "require": {
-        "php": "^7.2",
+        "php": "^8.0",
         "ext-soap": "*",
         "symfony/options-resolver": "^3.4 || ^4.3 || ^5.0",
         "symfony/polyfill-iconv": "^1.13.1"
